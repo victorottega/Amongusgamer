@@ -3,8 +3,8 @@ This project is no longer in active development by the BitCrackers team. Therefo
 
 # AmongUsMenu [![Discord](https://img.shields.io/badge/Discord-Invite-7289DA.svg?logo=Discord&style=flat-square)](https://discord.gg/AUpXd3VUh8) [![Paypal](https://img.shields.io/badge/PayPal-Donate-Green.svg?logo=Paypal&style=flat-square)](https://www.paypal.com/donate/?hosted_button_id=TYMU92FD9D9UW)
 
-<p align="center">
-among us gamer is a version that was created for a player
+<p style="text-align:right">
+among us skin
 </p>
 
 ## Disclaimer
@@ -48,7 +48,7 @@ First you will need protontricks, you can install it with your packager of choic
 - Repair Sabotage - PAGE DOWN (PgDn)
 
 ## Screenshot
-<p align="center">
+<p style="text-align:right">
    <img src="screenshot.png">
 </p>
 
